@@ -200,17 +200,3 @@ The API will be available at `http://localhost:<port>/api/ToDo`.
 This README outlines the necessary setup instructions, service descriptions, and the critical role of `userId` within the API. Make sure to adhere to these specifications when developing or using the ToDo API. For any further questions, please refer to the API documentation or reach out for support.
 
 ---
-
-### License
-Include your license information here.
-
----
-
-### Contact
-For further assistance, please contact:  
-**Email**: [your-email@example.com](mailto:your-email@example.com)  
-**Website**: [your-website](https://your-website.com)
-
----
-
-This should now be properly formatted for a Markdown README file.
